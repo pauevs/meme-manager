@@ -1,0 +1,10 @@
+venv/
+__pycache__/
+*.pyc
+*.pyo
+memes.db
+images/
+.vscode/
+.idea/
+.DS_Store
+screenshots/
